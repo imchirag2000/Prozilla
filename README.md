@@ -1,9 +1,9 @@
 # Prozilla
-This project is created by nodejs 
->Step 1 :
-'git clone https://github.com/imchirag2000/Prozilla.git'
->Step 2 :
-'npm install'
->Step 3 :
-'npm start'
-and Now code working 
+This project is created by nodejs <br />
+>Step 1 : <br />
+`git clone https://github.com/imchirag2000/Prozilla.git` <br />
+>Step 2 : <br />
+`npm install` <br />
+>Step 3 : <br />
+`npm start` <br />
+and Now code working <br />
